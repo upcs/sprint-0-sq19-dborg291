@@ -4,7 +4,4 @@ function addition() {
     var factor3 = Number(document.getElementById("factor3").value);
 
     document.getElementById("factor3").value = (factor1 + factor2);
-
-
-
 }
