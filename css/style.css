@@ -1,7 +1,8 @@
 html{
-    background-color: lightblue
+    background-color: lightblue;
+    background: red;
 }
 
 body{
-    text-align: center
+    text-align: center;
 }
